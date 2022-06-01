@@ -1,0 +1,6 @@
+opencv,
+numpy,
+random,
+scipy,
+mediapipe,
+time
