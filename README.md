@@ -13,6 +13,4 @@ Run hand_cricket.py to play the game.
 
 ##Demo
 
-https://github.com/farazkabir/Hand-Cricket/blob/cbff6bd130f560cded5cd7822e3ae66b97fd28fd/Hand%20Cricket%20Demo.mp4
-
-
+https://github.com/farazkabir/Hand-Cricket/blob/62291b82cd4912fdd6a591a69f810785aa080bfe/Demo%20of%20Hand%20Cricket.mp4
