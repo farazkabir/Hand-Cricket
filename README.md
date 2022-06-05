@@ -7,6 +7,11 @@ Hand Cricket is a computer vision-based game. The rules are simple.
 
 The game is implemented using Mediapipe, OpenCV, and other libraries. Some open-source code snippets were used while developing it.
 
+##How to play
 Install the requirements in the 'requirements.txt' within the Python environment you are running this project in.
 Run hand_cricket.py to play the game.
+
+##Demo
+https://github.com/farazkabir/Hand-Cricket/blob/cbff6bd130f560cded5cd7822e3ae66b97fd28fd/Hand%20Cricket%20Demo.mp4
+
 
