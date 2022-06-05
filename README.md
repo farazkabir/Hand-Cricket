@@ -12,6 +12,7 @@ Install the requirements in the 'requirements.txt' within the Python environment
 Run hand_cricket.py to play the game.
 
 ##Demo
+
 https://github.com/farazkabir/Hand-Cricket/blob/cbff6bd130f560cded5cd7822e3ae66b97fd28fd/Hand%20Cricket%20Demo.mp4
 
 
